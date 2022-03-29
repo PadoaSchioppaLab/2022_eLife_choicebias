@@ -8,6 +8,6 @@ TwoTask: Code for task control; these codes are based on custom written software
 
 figure_data: Excel files containing data points for each figures
 
-raw_data: Raw neuronal and behavioral data; each neuron contains one .mat data file named as xxx_data
+raw_data: Raw neuronal and behavioral data; each neuron contains one .mat data file named as xxx_data; each session contains one matlab script named as TT_xxx
 
 analysis_code: Codes used to analyze the raw neuronal and behavioral data
