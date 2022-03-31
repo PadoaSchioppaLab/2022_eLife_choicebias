@@ -6,7 +6,7 @@ monkey = parsession.monkey;
 day = parsession.day;
 sessnum = parsession.sessnum;
 % 
-dirroot = ['C:\Experiments\TwoTasks\Data\',parsession.mnkdir, filesep, day, filesep];
+dirroot = ['C:\Experiments\TwoTasks\Data\',parsession.mnkdir, filesep, day, filesep]; % change based on which will be the final folder 
 
 fileroot_ML = ['TT', session(2:end)];
 fileroot_CED = session(1:end-1);
