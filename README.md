@@ -1,7 +1,5 @@
 # 2022_eLife_choicebias
-This respiratory contains code and data for 2022 elife submission "Neuronal origins of reduced accuracy and biases in economic choices under sequential offers".
-The preprint version can be found here: https://www.biorxiv.org/content/10.1101/2021.11.07.467645v1.full
-
+This respiratory contains code and data for 2022 elife submission "Neuronal origins of reduced accuracy and biases in economic choices under sequential offers" (https://elifesciences.org/articles/75910).
 In this respiratory, there are files of:
 
 TwoTask: Code for task control; these codes are based on custom written software (https://monkeylogic.nimh.nih.gov) (Hwang et al., 2019)
