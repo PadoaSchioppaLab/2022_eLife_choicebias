@@ -4,7 +4,7 @@ make_cellist_TT.m: making a list summarizing the cell data
 
 pop_behav_ana_summary_TT.m: behavioral analysis at the population level
 
-pop_encoding_slope_JCSOinTT.m: neuronal analysis of tuning slope/intercept and activity range/mean activity
+pop_encoding_slope_JCSOinTT_redoslope.m: neuronal analysis of tuning slope/intercept and activity range/mean activity
 
 pop_neurocorr_orderbias_JCSOinTT_redoslope.m: neuronal correlates of order bias
 
